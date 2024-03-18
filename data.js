@@ -1,15 +1,15 @@
 const troubleshootingData = [
     {
         issue: "Machine Will Not Start",
-        imagePath: "SCS-Tech-Portal /CMA/Machine Will Not Start.png"
+        imagePath: "/CMA/Machine Will Not Start.png"
     },
     {
         issue: "Wash Pump Runs – Timer Will Not Cycle",
-        imagePath: "SCS-Tech-Portal/CMA/Wash Pump Runs – Timer Will Not Cycle.png"
+        imagePath: "CMA/Wash Pump Runs – Timer Will Not Cycle.png"
     },
      {
         issue: "Machine Cycles, Normal Wash Pump Will Not Run",
-        imagePath: "SCS-Tech-Portal/CMA/Machine Cycles, Normal Wash Pump Will Not Run.png"
+        imagePath: "SCS-Tech-Portal/CMA/Machine Cycles, Normal Wash Pump Will Not Run.PNG"
     },
      {
         issue: "Machine Will Not Turn Off",
