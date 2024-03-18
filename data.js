@@ -1,7 +1,7 @@
 const troubleshootingData = [
     {
         issue: "Machine Will Not Start",
-        imagePath: "SCS-Tech-Portal /CMA/Machine Will Not Start.PNG"
+        imagePath: "CMA/Machine Will Not Start.PNG"
     },
     {
         issue: "Wash Pump Runs – Timer Will Not Cycle",
