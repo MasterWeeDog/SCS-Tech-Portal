@@ -1,0 +1,38 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd
+;
+    max-width: 800px;
+    margin: auto;
+}
+
+#stepDisplay img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+#stepDisplay {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #DDA0DD;
+    border: 1px solid #ddd;
+}
+
+#resetButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #dda0dd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#resetButton:hover {
+    background-color: #0056b3;
+}
+
+/* Copyright 2024 Leon W. T. Pennington  */
