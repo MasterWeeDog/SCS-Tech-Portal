@@ -13,7 +13,7 @@ const troubleshootingData = [
     },
      {
         issue: "Machine Will Not Turn Off",
-        imagePath: "SCS-Tech-Portal /CMA/Machine Will Not Turn Off.PNG"
+        imagePath: "SCS-Tech-Portal /CMA/Machine Will Not Turn Off.png"
     },
      {
         issue: "Dishwasher Will Not Drain, Drain Bill Not Lifting",
