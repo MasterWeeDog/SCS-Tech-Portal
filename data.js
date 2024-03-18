@@ -5,7 +5,7 @@ const troubleshootingData = [
     },
     {
         issue: "Wash Pump Runs – Timer Will Not Cycle",
-        imagePath: "SCS-Tech-Portal /CMA/Wash Pump Runs – Timer Will Not Cycle.PNG"
+        imagePath: "SCS-Tech-Portal/CMA/Wash Pump Runs – Timer Will Not Cycle.PNG"
     },
      {
         issue: "Machine Cycles, Normal Wash Pump Will Not Run",
