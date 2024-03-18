@@ -9,7 +9,7 @@ const troubleshootingData = [
     },
      {
         issue: "Machine Cycles, Normal Wash Pump Will Not Run",
-        imagePath: "SCS-Tech-Portal /CMA/Machine Cycles, Normal Wash Pump Will Not Run.png"
+        imagePath: "SCS-Tech-Portal/CMA/Machine Cycles, Normal Wash Pump Will Not Run.png"
     },
      {
         issue: "Machine Will Not Turn Off",
