@@ -1,4 +1,3 @@
-const baseUrl = "/SCS-Tech-Portal/";
 const troubleshootingData = [
     {
         issue: "Machine Will Not Start",
@@ -65,3 +64,4 @@ const troubleshootingData = [
 
    // Add more issues and their corresponding images
 ];
+// Copyright 2024  Leon W. T. Pennington
