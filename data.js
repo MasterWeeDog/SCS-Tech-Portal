@@ -2,11 +2,11 @@ const baseUrl = "/SCS-Tech-Portal/";
 const troubleshootingData = [
     {
         issue: "Machine Will Not Start",
-        imagePath: "CMA/Machine Will Not Start.PNG"
+        imagePath: "CMA/Machine Will Not Start.png"
     },
     {
         issue: "Wash Pump Runs – Timer Will Not Cycle",
-        imagePath: "/SCS-Tech-Portal/CMA/Wash Pump Runs – Timer Will Not Cycle.png"
+        imagePath: "SCS-Tech-Portal/CMA/Wash Pump Runs – Timer Will Not Cycle.png"
     },
      {
         issue: "Machine Cycles, Normal Wash Pump Will Not Run",
