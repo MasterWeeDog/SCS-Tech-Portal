@@ -1,38 +1,62 @@
 body {
-    font-family: Times New Roman, sans-serif;
-    margin: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #DDA0DD;
+    color: #333;
+    line-height: 1.6;
     padding: 20px;
-    border: 1px solid #ddd
-;
     max-width: 800px;
     margin: auto;
+}
+
+h2 {
+    color: #444;
+}
+
+label {
+    margin-top: 20px;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+button {
+    background-color: #5cb85c;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #DDA0DD;
+}
+
+#stepDisplay {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 #stepDisplay img {
     max-width: 100%;
     height: auto;
-}
-
-
-#stepDisplay {
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #DDA0DD;
-    border: 1px solid #ddd;
-}
-
-#resetButton {
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-color: #dda0dd;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-#resetButton:hover {
-    background-color: #0056b3;
+    display: block;
+    margin-bottom: 20px;
 }
 
 /* Copyright 2024 Leon W. T. Pennington  */
